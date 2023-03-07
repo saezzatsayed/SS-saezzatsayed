@@ -19,7 +19,7 @@
 |Self Grade    |85/100|
 |Notes |Although everything is done correctly, the file was submitted late. I apologize it took me some time famliarizing myself with the kali enviroment|
 
-# Assignment 1
+# Assignment 2
 |Name            |Value                    |
 |:--------------:|:-----------------------:|
 |Name          |Bash Script|
