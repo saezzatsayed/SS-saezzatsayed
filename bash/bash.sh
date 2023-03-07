@@ -1,8 +1,7 @@
 #!/bin/bash
 
 function Delete_Files(){
- #sudo find /tmp -type f -atime +10 -delete
- echo "d_done"
+ sudo find /tmp -type f -atime +10 -delete
  echo ""
 }
 
@@ -35,7 +34,6 @@ then
 	read path_out
 	sudo rsync -avr /$path_in/ /$path_out/
 fi
- #echo "B_Done"
  echo ""
 }
 
