@@ -82,3 +82,12 @@
 |Location       |https://github.com/saezzatsayed/SS-saezzatsayed/tree/main/CTF|
 |Self Grade    |90/100|
 |Notes | All technical requirments met. Assignment is submitted late|
+
+# Assignment Final
+|Name            |Value                    |
+|:--------------:|:-----------------------:|
+|Name          |NCAE games|
+|Description         |Compete in one of the cyber games called NCAE|
+|Location       |https://github.com/saezzatsayed/SS-saezzatsayed/tree/main/Final|
+|Self Grade    |60/100|
+|Notes | In the NCAE games i did great, i would rate myself 85/100 but i missed the other comptetion, i didn't know about it.|
